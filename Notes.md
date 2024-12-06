@@ -1,0 +1,2 @@
+- If a party kid has a full name, should we use the full name only? 
+- 

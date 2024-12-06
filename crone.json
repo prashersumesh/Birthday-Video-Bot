@@ -1,0 +1,16 @@
+  {
+    "apps": [
+      {
+        "name": "bday vid",
+        "script": "main.py",
+        "interpreter": "python3",
+        "autorestart": false,
+        "cron_restart": "0 0 * * *",  
+        "watch": false
+      }
+    ]
+  }
+  
+
+
+  
